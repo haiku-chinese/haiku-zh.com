@@ -14,7 +14,7 @@ HaikuOS官方網站 : [https://haiku-os.org](https://haiku-os.org)
 
 ## Translators
 
-目前的中文（简体）(zh_CN)译者 => [Zhouseeie](https://github.com/)
+目前的中文（简体）(zh_CN)译者 => [Zhouseeie](https://github.com/Zhouseeie)
 
 目前的中文（正體）(zh_TW)譯者 => [windwords](https://windwords.me)
 
