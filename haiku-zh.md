@@ -1,35 +1,44 @@
-# HaikuOS 中文計畫
+# HaikuOS 中文計畫 | HaikuOS Chinese Project
 
-我們致力於推動HaikuOS的中文化進程，並重建中文社區。
+We are committed to promoting the localization of HaikuOS and rebuilding the Chinese community. / 我們致力於推動HaikuOS的中文化進程，並重建中文社區。
 
 ---
 
 ## Websites
 
-HaikuOS官方網站 : [https://haiku-os.org](https://haiku-os.org)
+HaikuOS Official Site / HaikuOS官方網站 : [https://haiku-os.org](https://haiku-os.org)
 
-經過翻譯的HaikuOS網站 : [https://haiku-chinese.github.io](https://haiku-chinese.github.io)
+Translated HaikuOS Site / 經過翻譯的HaikuOS網站 : [https://haiku-chinese.github.io](https://haiku-chinese.github.io)
 
-我們的GitHub Organization : https://github.com/haiku-chinese
+Our GitHub Organization / 我們的GitHub Organization : https://github.com/haiku-chinese
 
 ## Translators
 
-目前的中文（简体）(zh_CN)译者 => [Zhouseeie](https://github.com/Zhouseeie)
+Chinese (Simplified) (zh_CN) translator / 中文（简体）(zh_CN)译者 : [Zhouseeie](https://github.com/Zhouseeie)
 
-目前的中文（正體）(zh_TW)譯者 => [windwords](https://windwords.me)
+Chinese (Traditional) (zh_TW) translator / 中文（正體）(zh_TW)譯者 : [windwords](https://windwords.me)
 
 ## Contact
 
-TG群組 : [https://t.me/haikuchinese](https://t.me/haikuchinese)
+#### Translators' Email
 
-TG群組(開發) : [https://t.me/joinchat/U8wFEvVAl0IwN2I1](https://t.me/joinchat/U8wFEvVAl0IwN2I1)
+Zhouseeie : [zhousi@haiku-zh.com](mailto:zhousi@haiku-zh.com)
 
-TG頻道 : https://t.me/haikuchinesechannel
+windwords : [ww@haiku-zh.com](ww@haiku-zh.com)
 
-Mailing List : https://www.freelists.org/list/haiku-i18-zh
+#### IM & Mailing List
 
-在未來，我們將會建立相應的Skype與QQ群組。
+TG Group / TG群組 : [https://t.me/haikuchinese](https://t.me/haikuchinese)
+
+TG Group (Developers) / TG群組(開發) : [https://t.me/joinchat/U8wFEvVAl0IwN2I1](https://t.me/joinchat/U8wFEvVAl0IwN2I1)
+
+TG Channel / TG頻道 : https://t.me/haikuchinesechannel
+
+Mailing List / 邮件列表 : https://www.freelists.org/list/haiku-i18-zh
+
+In the future, we will establish corresponding Skype and QQ groups. / 在未來，我們將會建立相應的Skype與QQ群組。
 
 ---
 
-(C)opyright 2021 [haiku-zh.com](https://haiku-zh.com)
+(C)opyright 2021 [Haiku Chinese Project](https://haiku-zh.com)
+
